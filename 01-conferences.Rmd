@@ -12,6 +12,7 @@ The format for listing a conference is:
 
   * January: [rstudio:conf](https://www.rstudio.com/conference/). Kissmmee, USA.  
   * July: UseR! 2017. Brussels, Belgium. [\@UseR_Brussels](https://twitter.com/UseR_Brussels)
+  * November: [The 5th International Joint Conference New Challenges for Statistical Software - The Use of R in Official Statistics](http://r-project.ro/conference2017/). Bucharest, Romania
 
 ## 2016 {-}
 
