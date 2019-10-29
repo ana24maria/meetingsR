@@ -20,6 +20,7 @@ The format for listing an R event is
 
 ### May
 
+ * May 4-8: [uRos2020] (www.urosconf.org). Vienna, Austria [\@uRosconf](https://twitter.com/uRosconf)
  * May 27-30: [eRum 2020](http://2020.erum.io/). Milan, Italy. [\@erum2020_conf](https://twitter.com/erum2020_conf)
 
 ### July
